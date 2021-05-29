@@ -64,3 +64,4 @@ A,xkb-switch,"library to vim xkb-switch plugin, used for comf. use of mother lan
 ,evolution," a gui task manager"
 A,evolution-etesync," support for etesync protocol for evolution"
 ,texlive-langcyrillic, " a support for cyrillic to tex"
+,htop, "a program to check system usage and list procces"
