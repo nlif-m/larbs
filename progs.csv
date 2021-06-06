@@ -47,6 +47,7 @@ G,https://git.yasal.ru/nlif/dwm,"is the window manager."
 ,firefox,"is a browser to surf a net"
 ,rsync,"is programm to copy/sync files"
 ,pass,"is program to CLI password managent"
+,pass-otp,"is plugin to pass for OTP auth"
 ,zsh,""
 ,zsh-autosuggestions,""
 ,zsh-syntax-highlighting,""
@@ -65,3 +66,4 @@ A,xkb-switch,"library to vim xkb-switch plugin, used for comf. use of mother lan
 A,evolution-etesync," support for etesync protocol for evolution"
 ,texlive-langcyrillic, " a support for cyrillic to tex"
 ,htop, "a program to check system usage and list procces"
+
