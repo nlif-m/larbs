@@ -16,6 +16,7 @@
 ,neovim,"a tidier vim with some useful features"
 ,cmus,"lets you read play music."
 ,man-db,"lets you read man pages of programs."
+,man-pages, "add more man pages already for use"
 ,newsboat,"is a terminal RSS client."
 ,noto-fonts-emoji,"is an emoji font."
 ,ntfs-3g,"allows accessing NTFS partitions."
